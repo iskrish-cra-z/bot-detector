@@ -1,0 +1,22 @@
+{
+  "num_nodes": 10199,
+  "num_edges": 720695,
+  "is_undirected": false,
+  "density": 0.013858266390186533,
+  "avg_degree": 70.66329956054688,
+  "median_degree": 16.0,
+  "max_degree": 1229,
+  "min_degree": 0,
+  "std_degree": 135.94174194335938,
+  "isolated_nodes": 788,
+  "human_avg_degree": 90.72151184082031,
+  "human_max_degree": 1229,
+  "human_isolated": 510,
+  "bot_avg_degree": 16.276927947998047,
+  "bot_max_degree": 500,
+  "bot_isolated": 278,
+  "edge_type_distribution": {
+    "0": 308120,
+    "1": 412575
+  }
+}
